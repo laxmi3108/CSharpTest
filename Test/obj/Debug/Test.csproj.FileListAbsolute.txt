@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\.NET\Test\bin\Debug\Test.exe.config
+C:\Users\HP\Desktop\.NET\Test\bin\Debug\Test.exe
+C:\Users\HP\Desktop\.NET\Test\bin\Debug\Test.pdb
+C:\Users\HP\Desktop\.NET\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\.NET\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\.NET\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\.NET\Test\obj\Debug\Test.exe
+C:\Users\HP\Desktop\.NET\Test\obj\Debug\Test.pdb
